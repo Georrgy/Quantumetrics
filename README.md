@@ -47,7 +47,7 @@ The application is built with React and TypeScript, ensuring a responsive and us
 
 ```bash
 
-git clone git clone git@github.com:georgeflow/Quantumetrics.git
+git clone git@github.com:georgeflow/Quantumetrics.git
 
 ```
 
