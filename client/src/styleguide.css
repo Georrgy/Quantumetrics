@@ -1,0 +1,19 @@
+:root {
+  --h1-font-family: 'IBMPlex Sans-SemiBold', Helvetica;
+  --h1-font-size: 30px;
+  --h1-font-style: normal;
+  --h1-font-weight: 600;
+  --h1-letter-spacing: 0px;
+  --h1-line-height: 110.00000238418579%;
+  --TEXT-font-family: 'IBMPlex Sans-Regular', Helvetica;
+  --TEXT-font-size: 16px;
+  --TEXT-font-style: normal;
+  --TEXT-font-weight: 400;
+  --TEXT-letter-spacing: 0px;
+  --TEXT-line-height: 110.00000238418579%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

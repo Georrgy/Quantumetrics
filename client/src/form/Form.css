@@ -1,0 +1,195 @@
+.BUY .BUY-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #0f1a1f;
+  height: 100vh;
+  width: 100vw;
+}
+
+.BUY .div {
+  background-color: #273035;
+  border-radius: 10px;
+  height: 458px;
+  position: relative;
+  width: 511px;
+  padding: 24px;
+}
+
+.BUY .header {
+  background-color: transparent;
+  height: 80px;
+  width: 100%;
+}
+
+.BUY .add-note {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.BUY .frame-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.BUY .bitcoin {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.BUY .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.BUY .text-wrapper-5 {
+  color: #ffffff;
+  font-family: 'IBM Plex Sans-SemiBold', Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.BUY .text-wrapper-6 {
+  color: #97fce4;
+  font-family: 'IBM Plex Sans-Regular', Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 15.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.BUY .zondicons-close {
+  height: 35px;
+  position: relative;
+  width: 35px;
+}
+
+.BUY .buttons {
+  height: 61px;
+  width: 100%;
+  align-items: center;
+  background-color: #97fce4;
+  display: flex;
+  justify-content: center;
+  border-radius: 8px;
+  font-family: 'IBM Plex Sans-SemiBold', Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 22px;
+}
+.cancel {
+  border: 1px #97fce4 solid;
+  color: #97fce4;
+  background-color: transparent !important;
+}
+
+.BUY .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  margin: 6px 0px;
+}
+
+.BUY .text-wrapper-2 {
+  color: #ffffff;
+  font-family: var(--TEXT-font-family);
+  font-size: var(--TEXT-font-size);
+  font-style: var(--TEXT-font-style);
+  font-weight: var(--TEXT-font-weight);
+  letter-spacing: var(--TEXT-letter-spacing);
+  line-height: var(--TEXT-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.BUY .frame-2 {
+  background-color: #ffffff26;
+  border-radius: 8px;
+  justify-content: space-between;
+  padding: 8px 16px;
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  height: 32px;
+}
+
+.BUY .text-wrapper-3 {
+  color: #a0a0a0;
+  font-family: var(--TEXT-font-family);
+  font-size: var(--TEXT-font-size);
+  font-style: var(--TEXT-font-style);
+  font-weight: var(--TEXT-font-weight);
+  letter-spacing: var(--TEXT-letter-spacing);
+  line-height: var(--TEXT-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.BUY .note {
+  width: 100%;
+  /* box-sizing: border-box; */
+}
+
+.BUY .frame-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 24px;
+  position: absolute;
+  top: 46px;
+}
+
+.BUY .div-wrapper {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  margin: 6px 0px;
+}
+.BUY .div-wrapper > div {
+  background-color: #ffffff26;
+  border-radius: 30px;
+  padding: 8px;
+}
+
+.BUY .text-wrapper-4 {
+  color: #97fce4;
+  font-family: var(--TEXT-font-family);
+  font-size: var(--TEXT-font-size);
+  font-style: var(--TEXT-font-style);
+  font-weight: var(--TEXT-font-weight);
+  letter-spacing: var(--TEXT-letter-spacing);
+  line-height: var(--TEXT-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
